@@ -1,0 +1,4 @@
+cat > 1-listit << 'EOF'
+#!/bin/bash
+ls
+EOF
