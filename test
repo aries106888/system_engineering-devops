@@ -1,0 +1,5 @@
+./0-current_working_directory
+# Expected: /full/path/to/system_engineering-devops/0x00-shell_basics
+
+./1-listit
+# Expected: 0-current_working_directory  1-listit
