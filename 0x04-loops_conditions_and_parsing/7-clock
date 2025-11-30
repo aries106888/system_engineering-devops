@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script prints the current time every second in an infinite loop
+
+while true; do
+    date +"%T"
+    sleep 1
+done
