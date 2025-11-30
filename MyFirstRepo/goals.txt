@@ -1,0 +1,6 @@
+My Personal and Academic Goals for Next Year
+
+- Improve my Bash scripting and Linux skills.
+- Learn more about Git branching and merging.
+- Complete at least two personal programming projects.
+- Enhance my understanding of web development and software engineering concepts.
