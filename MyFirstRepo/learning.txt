@@ -1,0 +1,3 @@
+Course Reflection
+
+So far, I have learned how to create and manage GitHub repositories, create branches, and submit pull requests. I have also practiced cloning repositories locally, making changes, and syncing them back to GitHub using Git commands. This process has helped me understand version control and collaboration workflows more deeply.
