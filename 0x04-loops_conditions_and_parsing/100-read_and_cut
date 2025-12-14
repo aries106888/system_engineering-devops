@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Reads a file line by line and prints the first field (assuming space-separated)
+
+while read -r line; do
+    echo "$line" | cut -d' ' -f1
+done < "sample.txt"

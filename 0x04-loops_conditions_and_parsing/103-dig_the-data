@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Prints the second column from a CSV file
+
+awk -F',' '{print $2}' data.csv
