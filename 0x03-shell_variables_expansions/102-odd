@@ -1,2 +1,6 @@
 #!/bin/bash
-paste -d, - - | cut -d, -f1,2 | sort -t, -k2 -n | cut -d, -f1
+while read line
+do
+    echo $line
+    read line
+done
