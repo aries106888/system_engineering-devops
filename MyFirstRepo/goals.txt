@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+1. Improve my coding skills in Python and JavaScript.
+2. Learn advanced Git workflows and GitHub collaboration.
+3. Complete all my course assignments on time.
+4. Build at least one full-stack project independently.
+5. Participate in open-source contributions.
