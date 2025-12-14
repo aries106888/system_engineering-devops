@@ -1,0 +1,5 @@
+Course Reflection
+
+So far in this Git and GitHub course, I have learned how to create repositories, manage files,  
+and use branches to organize my work. I also learned how to make pull requests and collaborate  
+with others efficiently. This knowledge will help me maintain version control in future projects.
