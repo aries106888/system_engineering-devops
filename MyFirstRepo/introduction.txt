@@ -1,5 +1,0 @@
-Brief Introduction About Myself
-
-My name is Kevin Muli. I am a passionate learner currently embarking on a journey to master software engineering and DevOps. I am excited to learn about version control and how to collaborate effectively using Git and GitHub.
-
-I enjoy solving problems and building new things. In this course, I hope to gain the skills necessary to contribute to open-source projects and manage my own codebases efficiently.

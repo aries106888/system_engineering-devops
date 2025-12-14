@@ -1,1 +1,0 @@
-I have learned that Git is an essential tool for version control in software development. It allows me to track changes in my code, collaborate effectively with other developers, and manage different versions of a project using branches. I also learned how to create repositories, commit changes with meaningful messages, and push my work to GitHub.

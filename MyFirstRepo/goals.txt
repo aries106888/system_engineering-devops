@@ -1,7 +1,0 @@
-My Personal and Academic Goals for Next Year
-
-1. Master the basics of Git and GitHub.
-2. Complete the ALX Software Engineering program with high grades.
-3. Build and deploy a full-stack web application.
-4. Contribute to at least one open-source project.
-5. Improve my problem-solving skills in Python and Shell scripting.
