@@ -1,0 +1,6 @@
+My Personal and Academic Goals for Next Year
+
+1. Master Git & GitHub workflows (Branching, PRs).
+2. Complete the ALX Software Engineering program.
+3. Learn to automate tasks using Bash scripts.
+4. Collaborate on an open-source project.
