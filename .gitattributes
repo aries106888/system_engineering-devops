@@ -1,1 +1,13 @@
-* text=auto eol=lf
+* text=auto
+0x03-shell_variables_expansions/* text eol=lf
+0-alias text eol=lf
+1-hello_you text eol=lf
+2-path text eol=lf
+3-paths text eol=lf
+4-global_variables text eol=lf
+5-local_variables text eol=lf
+6-create_local_variable text eol=lf
+7-create_global_variable text eol=lf
+8-true_knowledge text eol=lf
+9-divide_and_rule text eol=lf
+10-love_exponent_breath text eol=lf
