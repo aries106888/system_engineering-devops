@@ -1,7 +1,5 @@
 Brief Introduction About Myself
-
 Hello! My name is User. I am currently learning Git and GitHub as part of my course.
 I am excited to build my first repository and practice version control workflows.
-
 I am enthusiastic about learning new technologies and improving my collaboration skills.
 This project will help me understand Git commands, branching, and making pull requests effectively.
